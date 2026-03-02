@@ -1,77 +1,78 @@
-# 👋 Hello, I'm amrlnic
+# 👋 Hi, I'm Nicola Amoriello
 
-🚀 **Full Stack Developer | Open Source Enthusiast | Passionate about Clean Code**
+**Backend Engineer · AI & ML Enthusiast · Bologna, Italy**
 
-Welcome to my GitHub profile! I'm passionate about building scalable applications and contributing to open-source projects. I love learning new technologies and solving complex problems.
+📧 [amoriello.nicola97@gmail.com](mailto:amoriello.nicola97@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/amrlnic) &nbsp;|&nbsp; 📍 Bologna, Italy
 
 ---
 
 ## 🌟 About Me
 
-- 💻 I'm currently working on **[Your Current Project/Role]**
-- 🌱 I'm always learning and exploring new technologies
-- 💡 I'm interested in **[Your Interests: Web Development, AI, DevOps, etc.]**
-- 📫 Reach out to me: **[your.email@example.com]**
-- 🔗 Check out my portfolio: **[Your Website/Portfolio Link]**
+I'm a Backend Engineer at **Musixmatch**, where I work on large-scale data migration, microservices, and APIs. I hold a **Master's Degree in Artificial Intelligence** and a **Bachelor's Degree in Computer Science**, both with the highest honours (110/110 *cum laude*).
+
+My interests span backend engineering, distributed systems, machine learning, blockchain, and IoT.
 
 ---
 
-## 💻 Tech Stack
+## 💼 Experience
 
-**Languages:** JavaScript, Python, TypeScript, Java, etc.
+**Backend Engineer** @ [Musixmatch](https://musixmatch.com) *(Jul 2022 – Present · Bologna, Italy)*
+- Defined and executed the migration pipeline of the entire publishing data catalogue (60M+ records) from a relational to a graph database
+- Responsible for the tech-side publishing environment: technologies, standards, and domain competency
+- Designed and developed microservices, APIs, and internal tooling to boost business-process efficiency
 
-**Frontend:** React, Vue.js, HTML, CSS, Tailwind CSS
-
-**Backend:** Node.js, Express, Django, FastAPI
-
-**Databases:** PostgreSQL, MongoDB, Redis
-
-**Tools & Platforms:** Git, Docker, AWS, GitHub Actions
-
----
-
-## 📊 GitHub Statistics
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrlnic&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrlnic&layout=compact&theme=dark)
+**Data Science Intern** @ [Musixmatch](https://musixmatch.com) *(Nov 2021 – Mar 2022 · Bologna, Italy)*
+- Researched and implemented lyrics-to-video generative AI models
+- Implemented NFT smart contracts for music IP ownership on an Ethereum L2 chain with IPFS
+- Developed a graph ML recommender system for predicting transactions on distributed systems
 
 ---
 
-## 🎯 Featured Projects
+## 🎓 Education
 
-<!-- You can pin 6 projects on your profile, but here are some highlights -->
+**Master's Degree in Artificial Intelligence** — *110/110 cum laude* *(Nov 2019 – Jul 2022)*
+Alma Mater Studiorum – Università di Bologna, Italy
+> Machine Learning · Deep Learning · Computer Vision · Blockchain · IoT · NLP
+> Research: detecting significant prescription associations for the local health centre (AUSL)
 
-- **[Project Name 1](https://github.com/amrlnic/project1)** - Brief description of what this project does
-- **[Project Name 2](https://github.com/amrlnic/project2)** - Another amazing project description
-- **[Project Name 3](https://github.com/amrlnic/project3)** - What makes this project special
+**Bachelor's Degree in Computer Science** — *110/110 cum laude* *(Sep 2016 – Sep 2019)*
+Università degli Studi di Salerno, Italy
+> Data Structures · Algorithms · Databases · Operating Systems · Software Engineering
+> Thesis: multi-agent systems in Julia (ISISLab internship)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [**TheDeepComedy**](https://github.com/amrlnic/TheDeepComedy) | RNN that generates original *cantica* in Dante's style, trained on the Divine Comedy; respects the hendecasyllabic metre and *terza rima* rhyme scheme |
+| [**IoT Weather Station**](https://github.com/AndreaPolicarpi/IoT-Weather-Station) | Proof-of-concept IoT pipeline using a low-power device with ML/reinforcement-learning algorithms to sample environmental data and produce weather forecasts |
+| [**Go2RAIL**](https://go2rail.eu/) | Co-founded initiative enabling 100+ students to travel across Europe with 20–100% savings; responsible for the website and underlying IT infrastructure at initial stage |
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming Languages:**
+`Python` `Java` `PHP` `Julia` `C` `JavaScript` `R` `Scala` `MATLAB`
+
+**Frameworks & Web:**
+`React.js` `HTML` `CSS` `LaTeX`
+
+**Databases:**
+`MySQL`
+
+**Dev Tools:**
+`Docker` `AWS` `Kubernetes` `Git` `GitHub` `Grafana` `Azure` `ElasticSearch` `TensorFlow` `PyTorch`
+
+**Other Tools:**
+`Figma` `Notion` `Jira` `Trello` `Miro` `Google Analytics` `Adobe Premiere` `Photoshop` `OBS`
 
 ---
 
 ## 🤝 Let's Connect
 
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 [Personal Website](https://yourwebsite.com)
-- 📧 Email: your.email@example.com
-
----
-
-## ⭐ Fun Facts
-
-- 🎮 In my spare time, I enjoy **[your hobby]**
-- 🌍 I'm based in **[Your Location]**
-- 🎓 I'm interested in **[Learning topic]**
-
----
-
-### 💪 Support Me
-
-If you find my projects helpful, please consider:
-- ⭐ Starring my repositories
-- 🔄 Sharing my projects with others
-- ☕ [Buy me a coffee](https://buymeacoffee.com/yourhandle)
-
----
-
-*Last Updated: 2026-03-02*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amrlnic-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/amrlnic)
+[![Email](https://img.shields.io/badge/Email-amoriello.nicola97%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:amoriello.nicola97@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-amrlnic-181717?logo=github&logoColor=white)](https://github.com/amrlnic)
