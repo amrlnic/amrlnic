@@ -47,9 +47,8 @@ Università degli Studi di Salerno, Italy
 | Project | Description |
 |---------|-------------|
 | [**TheDeepComedy**](https://github.com/amrlnic/TheDeepComedy) | RNN that generates original *cantica* in Dante's style, trained on the Divine Comedy; respects the hendecasyllabic metre and *terza rima* rhyme scheme |
-| **IoT Weather Station** | Proof-of-concept IoT pipeline using a low-power device with ML/reinforcement-learning algorithms to sample environmental data and produce weather forecasts |
-| **HoloSensor** | P2P network infrastructure within an IoT context leveraging HoloSensor blockchain |
-| **Go2RAIL** | Co-founded initiative enabling 100+ students to travel across Europe with 20–100% savings; responsible for the website and underlying IT infrastructure |
+| [**IoT Weather Station**](https://github.com/AndreaPolicarpi/IoT-Weather-Station) | Proof-of-concept IoT pipeline using a low-power device with ML/reinforcement-learning algorithms to sample environmental data and produce weather forecasts |
+| [**Go2RAIL**](https://go2rail.eu/) | Co-founded initiative enabling 100+ students to travel across Europe with 20–100% savings; responsible for the website and underlying IT infrastructure at initial stage |
 
 ---
 
@@ -69,13 +68,6 @@ Università degli Studi di Salerno, Italy
 
 **Other Tools:**
 `Figma` `Notion` `Jira` `Trello` `Miro` `Google Analytics` `Adobe Premiere` `Photoshop` `OBS`
-
----
-
-## 📊 GitHub Stats
-
-![Nicola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrlnic&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrlnic&layout=compact&theme=dark&hide_border=true)
 
 ---
 
