@@ -2,6 +2,8 @@
 
 **Backend Engineer · AI & ML Enthusiast · Bologna, Italy**
 
+> 🧑‍💻 Backend Engineer at **Musixmatch** building scalable microservices and APIs · MSc in Artificial Intelligence · Passionate about distributed systems, ML, blockchain, and IoT.
+
 📧 [amoriello.nicola97@gmail.com](mailto:amoriello.nicola97@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/amrlnic) &nbsp;|&nbsp; 📍 Bologna, Italy
 
 ---
